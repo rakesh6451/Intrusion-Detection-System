@@ -10,8 +10,8 @@ Machine Learning Algorithms on NSL KDD Dataset:<br/>
 -> Voting classifier       - 86% <br/>
 
 Machine Learning Algorithms on UNSW_NB15 Dataset:<br/>
--> Logistic Regression  -  81%
--> SVM classifier       -  82%
+-> Logistic Regression  -  81% <br/>
+-> SVM classifier       -  82% <br/>
 
 
 
